@@ -11,5 +11,5 @@ mybatis和spring的整合；
 ***
 
 ## 分支和tag说明
-master分支：最新代码和内容
-v1.0:只包含原始jdbc的代码和基础mybatis的代码
+1. **master：**最新代码和内容
+2. **v1.0:**只包含原始jdbc的代码和基础mybatis的代码
