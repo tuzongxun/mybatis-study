@@ -9,7 +9,10 @@ mybatis和spring的整合；
 ***
 [mybatis系统学习（二）——使用基础mybatis代替原始jdbc](https://blog.csdn.net/tuzongxun/article/details/80103721)
 ***
+[mybatis系统学习（三）——使用spring+mybatis实现简单操作](https://blog.csdn.net/tuzongxun/article/details/80243244)
+***
 
 ## 分支和tag说明
 1. master：最新代码和内容
 2. v1.0:只包含原始jdbc的代码和基础mybatis的代码
+3. v1.1:spring整合mybatis基础
